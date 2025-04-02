@@ -125,3 +125,6 @@ tests/e2e/toy_examples/deepspeed/synchronous/output.txt
 logs
 log
 outputs
+
+venv_h200
+venv_h100
